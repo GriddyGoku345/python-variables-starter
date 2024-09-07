@@ -11,7 +11,7 @@ book_price$$$ = 19.99
 ```
 - Use short, descriptive variable names
     - `fn` and `ln` are short, but not descriptive
-    - `first_name` and `last_name` are short and specific and clearer variable names than just `fn` and `ln`
+    - `first_name` and `last_name` are short and specific and clearer variable names than `fn` and `ln`
 - No blank spaces in variable names (use the underscore character instead)
     - NOT OK: student id 
     - OK: student_id
