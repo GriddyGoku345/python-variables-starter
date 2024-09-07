@@ -21,7 +21,7 @@ book_price$$$ = 19.99
 - Don't use Python keywords (also known as reserved words) as variable names
     - Some examples of Python keywords include `print`, `import`, and `return`
     - These words have a special meaning in Python
-    - You'll get an error when you run your code if you try to use Python keywords as variable names
+    - You'll get an error when you run your code if you try to use any of the Python keywords as variable names
 
 
 ### Assigning a Value to a Variable
