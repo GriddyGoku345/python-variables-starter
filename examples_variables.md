@@ -10,14 +10,18 @@
 book_price$$$ = 19.99
 ```
 - Use short, descriptive variable names
-    - `name` is a bit vague
-    - `first_name` and `last_name` are more specific
+    - `fn` and `ln` are short, but not descriptive
+    - `first_name` and `last_name` are short and specific and clearer variable names than just `fn` and `ln`
 - No blank spaces in variable names (use the underscore character instead)
     - NOT OK: student id 
     - OK: student_id
 - Variable name can't start with a number
     - NOT OK: 225_order_number
     - OK: order_number225
+- Don't use Python keywords (also known as reserved words) as variable names
+    - Some examples of Python keywords include `print`, `import`, and `return`
+    - These words have a special meaning in Python
+    - You'll get an error when you run your code if you try to use Python keywords as variable names
 
 
 ### Assigning a Value to a Variable
